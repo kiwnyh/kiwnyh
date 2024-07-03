@@ -1,6 +1,6 @@
 ### Olá! 👋 Bem-vindo(a) ao meu GitHub!
 
-![GIF de boas-vindas](https://pin.it/6cslyMvZZ)
+![GIF de boas-vindas](https://media.giphy.com/media/xT8qBfjJhOmNPTVWU0/giphy.gif?cid=ecf05e47lassx54bj73h0lwl0xdggguk9b4dufdvhk0wqjoo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 Eu sou Anna Gabriela! Aqui você encontrará meus projetos, aprendizados e colaborações. Fique à vontade para explorar e se conectar comigo!
 
