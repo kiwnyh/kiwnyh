@@ -1,10 +1,10 @@
 ### Olá! 👋 Bem-vindo(a) ao meu GitHub!
 
-![GIF de boas-vindas](http:s-media-cache-ak0.pinimg.com)
+![GIF de boas-vindas](https://pin.it/6cslyMvZZ)
 
 Eu sou Anna Gabriela! Aqui você encontrará meus projetos, aprendizados e colaborações. Fique à vontade para explorar e se conectar comigo!
 
-###Sobre mim 🌸
+### Sobre mim 🌸
 
 - 🌱 Atualmente estou aprendendo Front-end.
 
