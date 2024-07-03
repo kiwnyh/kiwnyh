@@ -1,7 +1,7 @@
 ### Olá! 👋 Bem-vindo(a) ao meu GitHub!
-<div>
-<![GIF de boas-vindas](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppZ24xandiZGcwdzY0cW5rMno5dXhnZjE0cXVrcWM5NDJzaDVxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3nWlmgyqCeU8/giphy.gif )width="120">
-</div>
+
+![GIF de boas-vindas width="120">](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppZ24xandiZGcwdzY0cW5rMno5dXhnZjE0cXVrcWM5NDJzaDVxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3nWlmgyqCeU8/giphy.gif )
+
 Eu sou Anna Gabriela! Aqui você encontrará meus projetos, aprendizados e colaborações. Fique à vontade para explorar e se conectar comigo!
 
 ### Sobre mim 🌸
@@ -23,10 +23,6 @@ Eu sou Anna Gabriela! Aqui você encontrará meus projetos, aprendizados e colab
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 
 ### Estatísticas do GitHub 
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kiwnyh&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kiwnyh&layout=compact&theme=radical)
-
 
 <table>
   <a href="https://github.com/leehxd">
