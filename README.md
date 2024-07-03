@@ -1,6 +1,6 @@
 ### Olá! 👋 Bem-vindo(a) ao meu GitHub!
 
-![GIF de boas-vindas](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppZ24xandiZGcwdzY0cW5rMno5dXhnZjE0cXVrcWM5NDJzaDVxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3nWlmgyqCeU8/giphy.gif )
+![GIF de boas-vindas](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppZ24xandiZGcwdzY0cW5rMno5dXhnZjE0cXVrcWM5NDJzaDVxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3nWlmgyqCeU8/giphy.gif )width="120".
 
 Eu sou Anna Gabriela! Aqui você encontrará meus projetos, aprendizados e colaborações. Fique à vontade para explorar e se conectar comigo!
 
@@ -30,8 +30,8 @@ Eu sou Anna Gabriela! Aqui você encontrará meus projetos, aprendizados e colab
 
 <table>
   <a href="https://github.com/leehxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiwnyh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiwnyh&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="120" alt="React Native">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
