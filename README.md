@@ -1,4 +1,4 @@
-### Olá! 👋 Bem-vindo(a) ao meu GitHub!
+### Olá Mundo!bem Vindos ao meu GitHub!
 
 ![GIF de boas-vindas width="120">](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppZ24xandiZGcwdzY0cW5rMno5dXhnZjE0cXVrcWM5NDJzaDVxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3nWlmgyqCeU8/giphy.gif )
 
